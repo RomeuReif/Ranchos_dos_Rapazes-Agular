@@ -1,0 +1,14 @@
+<!-- Box de comidas-->
+<section class="container mt-4 mb-4">
+   <div class="row">
+      <div class="col-lg-4 mt-3" *ngFor="let food of foodData">
+         <div class="foodBox mt-3 mb-3">
+            <img src="{{food.foodImg}}">
+            <h1>{{food.foodName}}</h1>
+            <p>{{food.foodPrice | currency: "BRL"}} </p>
+            <p>{{food.foodDetails}}</p>
+            <a class="btn" target="_blank" href="{{food.foodLink}}">Comprar <i class="bi bi-bag"></i></a>
+         </div>
+      </div>
+   </div>
+</section>
