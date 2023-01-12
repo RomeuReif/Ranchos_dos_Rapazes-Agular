@@ -11,7 +11,7 @@ Foi usado junto Javascript, Typescript, Html, Css e Bootstrap.
 ![image](https://user-images.githubusercontent.com/99833059/211947616-7974a3cf-c553-4487-921d-d67849d2d9ca.png)
 
 
-## Para ver mais, veja a release ao lado >
+## Para ver mais, veja a release: https://github.com/RomeuReif/Ranchos_dos_Rapazes-Angular/releases/tag/Preview
 
 
 ## Para gerar um server e visualizar ao vivo o projeto.
