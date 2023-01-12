@@ -1,27 +1,20 @@
-# RanchoDosRapazes
+# Rancho Dos Rapazes
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
+Este projeto foi desenvolvido para uma hámburgueria usando como principal framework Angular.
+Foi usado junto Javascript, Typescript, Html, Css e Bootstrap.
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Preview Desktop
+![image](https://user-images.githubusercontent.com/99833059/211947522-c89c97c8-cc84-464c-a859-56b3bc71b9a5.png)
+ 
+## Preview Mobile
+![image](https://user-images.githubusercontent.com/99833059/211947616-7974a3cf-c553-4487-921d-d67849d2d9ca.png)
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Para ver mais, veja a release ao lado >
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Para gerar um server e visualizar ao vivo o projeto.
 
-## Running unit tests
+Digite `ng serve` no terminal do seu VisualCode. Navegue até `http://localhost:4200/`. O aplicativo será recarregado automaticamente se você alterar qualquer um dos arquivos de origem.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
